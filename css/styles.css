@@ -1,0 +1,43 @@
+h1 {
+  font-size: 30px;
+  font-family: sans-serif;
+}
+
+h2 {
+  color: red;
+}
+
+h3 {
+  font size: 15px;
+  color: blue;
+}
+
+h3.fancy {
+  background-color: yellow;
+}
+
+.important {
+  font-style: italic;
+}
+
+.fancy {
+  font-style: bold;
+  font-size: 50px;
+}
+
+.cool {
+  font-size: 40px;
+}
+
+.uncool {
+  font-family: serif;
+}
+
+.nice {
+  color: purple;
+}
+
+.nonice {
+  font-size: 40px;
+  color: green;
+}
